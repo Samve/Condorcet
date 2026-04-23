@@ -6,5 +6,5 @@ The methodology is implemented in the `R` package `hce`. For example, to calcula
 ## Other
 
 - **Data manipulation:** `dplyr`,  `tidyr`
-- **Visualization:** `ggplot2`, `patchrowk`
+- **Visualization:** `ggplot2`, `patchwork`
 - **Parallel Computing:** `furrr`
