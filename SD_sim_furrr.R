@@ -60,4 +60,4 @@ g <- OUT1 |> ggplot(aes(x = N, y = SD, colour = TYPE, linetype = M)) +
        colour = "Method", linetype = "Number of categories") + 
   theme(legend.position = "bottom")
 g
-ggsave(filename = "SD_sim.tiff", plot = g, width = 8, height = 6)
+ggsave(filename = "Figure 10.png", plot = g, width = 8, height = 6)
